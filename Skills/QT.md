@@ -1,0 +1,209 @@
+## QT
+
+- Qt modules
+  - Qt namespace: 🖐️ used
+  - QtCore module: 🖐️ used
+  - QtGui module: 🖐️ used
+  - QtWidgets module: 🖐️ used
+  - QtQuick and QtQML modules: 🎓 known
+  - QtNetwork module: 🎓 known
+  - QtXml and QtXmlPatterns modules: 🎓 known
+  - QtSql module: 🎓 known
+  - QtOpenGL module: 🎓 known
+  - QtWebK.it and QtWebKitWidgets modules: 🎓 known
+  - QtMultimedia and QtMultimediaWidgets modules 🎓 known
+  - QtScript and QtScriptTools modules: 🎓 known
+  - QtSvg module: 🎓 known
+- Mechanism of signals and slots
+  - Signals: 🖐️ used
+  - Slots: 🖐️ used
+  - Connecting objects: 🖐️ used
+  - Disconnection of objects: 🖐️ used
+- QWidget class
+  - Widget dimensions and coordinates: 🖐️ used
+  - Behind-the-scenes mechanism: 🎓 known
+  - Setting widget background: 🖐️ used
+- Changing the mouse pointer: 🎓 known
+- Layout managers
+  - Horizontal and vertical layout: 🖐️ used
+  - QBoxLayout class: 🎓 known
+  - Horizontal layout QHBoxLayout: 🎓 known
+  - Vertical layout QVBoxLayout: 🎓 known
+  - Nested Layouts: 🎓 known
+  - Tabular Layout QGridLayout: 🎓 known
+  - Tab ordering: 🎓 known
+  - QSplitter dividers: 🎓 known
+- QAbstractButton class
+  - Setting text and image: 🖐️ used
+  - User interaction: 🖐️ used
+  - Status polling: 🖐️ used
+  - Buttons: 🖐️ used
+  - Checkboxes: 🖐️ used
+  - Switches: 🖐️ used
+  - Button grouping: 🖐️ used
+- Customisation items
+  - QAbstractSlider class: 🖐️ used
+  - Position change: 🖐️ used
+  - Range setting: 🖐️ used
+  - Step setting: 🖐️ used
+  - Setting and retrieving values: 🖐️ used
+  - Slider: 🖐️ used
+  - Scroll bar: 🖐️ used
+  - Setter: 🖐️ used
+- Input elements
+  - Single line text box: 🖐️ used
+  - Text Editor: 🎓 known
+  - Write to file: 🖐️ used
+  - Syntax colouring: 🎓 known
+  - Counter: 🖐️ used
+  - Date and time input element: 🎓 known
+  - Input validation: 🎓 known
+- Selection elements
+  - Simple list: 🖐️ used
+  - Inserting items: 🖐️ used
+  - User selection of items: 🖐️ used
+  - User modification of items: 🎓 known
+  - Sorting elements: 🎓 known
+  - Hierarchical lists: 🎓 known
+  - Sorting elements: 🎓 known
+  - Tables: 🖐️ used
+  - Drop-down list: 🖐️ used
+  - Tabs: 🖐️ used
+  - Toolbar widget: 🖐️ used
+- Events
+  - QKeyEvent class: 🖐️ used
+  - Class QFocusEvent: 🎓 known
+  - Class QPaintEvent: 🖐️ used
+  - Class QMouseEvent: 🖐️ used
+  - QWheelEvent Class: 🖐️ used
+  - Methods enterEvent() and leaveEvent(): 🎓 known
+  - QTimerEvent class: 🖐️ used
+  - Implementing custom event classes: 🖐️ used
+  - Overriding the event() method: 🖐️ used
+- Introduction to Computer Graphics
+  - Point: 🖐️ used
+  - Two-dimensional size: 🖐️ used
+  - Rectangle: 🖐️ used
+  - Straight line: 🖐️ used
+  - Polygon: 🖐️ used
+  - QColor class: 🖐️ used
+  - RGB colour model: 🖐️ used
+  - HSV colour model: 🎓 known
+  - CMYK colour model: 🖐️ used
+  - Palette: 🎓 known
+  - Predefined colours: 🎓 known
+- Painting Context
+  - QPainter class: 🖐️ used
+  - Feathers and brushes: 🖐️ used
+  - Pen: 🖐️ used
+  - Brush: 🖐️ used
+  - Gradients: 🖐️ used
+  - Anti-aliasing Technique: 🎓 known
+  - Drawing points: 🖐️ used
+  - Drawing lines: 🖐️ used
+  - Drawing solid rectangles: 🖐️ used
+  - Drawing filled shapes: 🖐️ used
+  - Writing drawing commands: 🖐️ used
+  - Transforming coordinate systems: 🖐️ used
+  - Moving: 🖐️ used
+  - Scaling: 🎓 known
+  - Rotation: 🎓 known
+  - Bevelling: 🎓 known
+  - Transform matrices: 🎓 known
+  - Graphic path (painter path): 🖐️ used
+- Raster images
+  - BMP format: 🎓 known
+  - GIF format: 🎓 known
+  - PNG format: 🖐️ used
+  - JPEG format: 🖐️ used
+  - HPM format: 🎓 known
+  - Qlmage class: 🖐️ used
+  - Qlmage class as a drawing context: 🖐️ used
+  - QPixmap class: 🖐️ used
+  - QPixmapCache class: 🎓 known
+  - QBitmap class: 🖐️ used
+  - Using masks for QPixmap: 🎓 known
+- Working with fonts
+  - String display: 🖐️ used
+- Graphical representation
+  - Scene: 🖐️ used
+  - View: 🖐️ used
+  - Element: 🖐️ used
+  - Events: 🖐️ used
+- Developing your own elements of the equation
+  - Creating widgets: 🖐️ used
+- Menu creation
+  - "Menu Anatomy": 🖐️ used
+  - Tear-off menus: 🖐️ used
+  - Context menus: 🖐️ used
+- Dialogue windows
+  - QDialog class: 🖐️ used
+  - Modal dialogue boxes: 🎓 known
+  - Non-modal dialogue boxes: 🎓 known
+  - Creating your own dialogue box: 🖐️ used
+  - Standard dialogue boxes: 🖐️ used
+  - File Selection Dialog Box: 🖐️ used
+  - Printer Setup Dialog Box: 🎓 known
+  - Colour Selection Dialog Box: 🎓 known
+  - Font selection dialogue box: 🎓 known
+  - Input dialogue box: 🖐️ used
+  - Process dialogue box: 🎓 known
+  - Wizard Dialogues: 🎓 known
+  - Message dialogue boxes: 🖐️ used
+  - Information message window: 🖐️ used
+  - Warning message window: 🖐️ used
+  - Critical message window: 🖐️ used
+  - About message box: 🖐️ used
+  - About Qt message box: 🖐️ used
+  - Error message box: 🖐️ used
+- Help
+  - Tooltip: 🎓 known
+  - "What is this" tooltip: 🎓 known
+- Main window
+  - Main window class QMainWindow: 🖐️ used
+  - QAction class: 🖐️ used
+  - Toolbar: 🖐️ used
+  - Status bar: 🖐️ used
+  - Screensaver window: 🖐️ used
+- Working with files, directories and I/O streams
+  - I/O. QlODevice class: 🖐️ used
+  - Working with files. QFile class: 🖐️ used
+  - QBuffer class: 🎓 known
+  - QTemporaryFile class: 🎓 known
+  - QDir class: 🎓 known
+  - View catalogue contents: 🎓 known
+  - QFilelnfo class: 🎓 known
+  - File path and name: 🎓 known
+  - Date and time information: 🎓 known
+  - Getting file attributes: 🎓 known
+  - Determining the size of a file: 🎓 known
+  - Monitoring files and directories: 🎓 known
+  - I/O streams: 🖐️ used
+  - QTextStream class: 🖐️ used
+  - QDataStream Class: 🖐️ used
+- Date, Time and Timer
+  - Date and time: 🖐️ used
+  - Date class QDate: 🖐️ used
+  - Time Class QTime: 🖐️ used
+  - Date and time class QDateTime: 🖐️ used
+  - Timer: 🖐️ used
+  - Timer event: 🖐️ used
+  - QTimer class: 🖐️ used
+  - QBasicTimer Class: 🎓 known
+- Processes and threads
+  - Processes: 🖐️ used
+  - Streams: 🎓 known
+  - Priorities: 🎓 known
+  - Message exchange: 🎓 known
+  - Signal-slot connections: 🎓 known
+  - Sending events: 🎓 known
+  - Synchronisation: 🎓 known
+  - Mutexes: 🎓 known
+  - Semaphores: 🎓 known
+  - Waiting for conditions: 🎓 known
+  - Deadlocks: 🎓 known
+- Network Support Programming
+  - Socket connection: 🖐️ used
+  - Client-Server Model: 🖐️ used
+  - TCP server implementation: 🖐️ used
+  - TCP client implementation: 🖐️ used

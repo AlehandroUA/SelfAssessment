@@ -21,28 +21,28 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor: 👂 heard
-  - new: 👂 heard
-  - Static method: 👂 heard
-  - Method: 👂 heard
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
   - Async method
-  - Getters, Setters: 👂 heard
-  - Public fields: 👂 heard
-  - Private fields: 👂 heard
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
   - Field declarations: 👂 heard
-  - Inheritance
-  - Parent class: 👂 heard
-  - Polymorphism: 👂 heard
-  - Abstract class: 👂 heard
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
   - Interface
-  - Encapsulation: 👂 heard
+  - Encapsulation: 🖐️ used
   - Hidden class: 👂 heard
   - Object form
   - instance
   - Introspection
   - Reflection
 - Patterns
-  - Singleton: 👂 heard
+  - Singleton: 🖐️ used
   - Factory Method: 👂 heard
   - Abstract Factory
   - Adapter
@@ -63,4 +63,4 @@
   - Mediator
   - Memento
   - Template Method
-  - Visitor: 👂 heard 
+  - Visitor: 🖐️ used

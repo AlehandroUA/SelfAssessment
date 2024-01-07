@@ -90,7 +90,7 @@
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
@@ -102,7 +102,7 @@
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS: 👂 heard
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -122,7 +122,7 @@
   - Writable
   - Transform
   - back pressure
-  - Buffer
+  - Buffer: 👂 heard
   - Console: 🖐️ used
   - Inspector
   - Reliability
