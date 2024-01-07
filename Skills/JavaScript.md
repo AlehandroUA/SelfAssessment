@@ -1,8 +1,8 @@
 ## JavaScript
 
 - Language
-  - Object
-  - this: 👂 heard
+  - Object: 🎓 known
+  - this: 🎓 known
   - arrow function
   - async function
   - call
@@ -11,10 +11,10 @@
   - instanceof
   - ...spread
   - ...rest
-  - typeof
+  - typeof: 🎓 known
   - destructuring
   - generator
-  - iterator
+  - iterator: 🎓 known
   - async generator
   - async iterator
   - chaining
@@ -25,12 +25,12 @@
   - window
   - getters and setters
   - __proto__
-  - prototype
+  - prototype: 🎓 known
   - equality operators
   - logical operators
   - bitwise operators
   - ternary operator
-  - void: 👂 heard
+  - void: 🎓 known
   - yield
   - await
   - template literal
@@ -54,7 +54,7 @@
   - import
   - export
   - label
-  - try..catch
+  - try..catch: 🎓 known
   - switch: 🖐️ used
   - class: 🖐️ used
   - new Error
@@ -73,7 +73,7 @@
   - Map
   - Set
   - undefined
-  - null
+  - null: 🎓 known
   - Proxy
   - weak collections
   - timers
@@ -83,7 +83,7 @@
   - BigInt
 - Infrastructure
   - V8
-  - Node.js
-  - npm
+  - Node.js: 👂 heard
+  - npm: 🖐️ used
   - prettier
   - MDN

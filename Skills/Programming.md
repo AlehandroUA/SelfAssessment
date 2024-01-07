@@ -56,11 +56,11 @@
   - array: 🖐️ used
   - structure: 🖐️ used
   - record
-  - enum: 👂 heard
+  - enum: 🖐️ used
   - instance
-  - object: 👂 heard
-  - class: 👂 heard
-  - collection: 👂 heard
+  - object: 🖐️ used
+  - class: 🖐️ used
+  - collection: 🖐️ used
   - set
   - hash table
   - linked list
@@ -68,19 +68,19 @@
   - unrolled list
   - circular list
   - queue: 🖐️ used
-  - stack: 👂 heard
+  - stack: 🎓 known
   - deque
-  - tree: 👂 heard
+  - tree: 🎓 known
   - graph
-  - iterator
+  - iterator: 🎓 known
   - mutable state
   - immutable state
   - serialization
-  - string parsing
+  - string parsing: 🖐️ used
 - Process & style
   - compiler: 🖐️ used
   - transpiler
-  - linter: 👂 heard
+  - linter: 🎓 known
   - polyfill
   - debugger: 🖐️ used
   - garbage collection
@@ -89,17 +89,17 @@
   - antipatterns: 🖐️ used
   - paradigm: 👂 heard
   - algorithm: 🖐️ used
-  - magic numbers: 🖐️ used
-  - hardcode: 🖐️ used
+  - magic numbers: 🎓 known
+  - hardcode: 🎓 known
   - complexity: 🖐️ used
   - decomposition: 🖐️ used
-  - spaghetti: 🖐️ used
-  - silver bullet: 🖐️ used
+  - spaghetti: 🎓 known
+  - silver bullet: 🎓 known
   - not invented here: 🖐️ used
-  - dead code: 🖐️ used
-  - unreachable code: 🖐️ used
-  - duplicate code: 🖐️ used
-  - exception: 🖐️ used
+  - dead code: 🎓 known
+  - unreachable code: 🎓 known
+  - duplicate code: 🎓 known
+  - exception: 🎓 known
   - return early
   - unittest
   - git: 🖐️ used
