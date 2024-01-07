@@ -1,28 +1,28 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
+  - value: 🖐️ used
+  - identifier: 🖐️ used
+  - variable: 🖐️ used
+  - constant: 🖐️ used
   - scalar
   - literal
-  - expression
+  - expression: 🖐️ used
   - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
+  - function: 🖐️ used
+  - procedure: 👂 heard
+  - method: 👂 heard
+  - class: 👂 heard
+  - prototype: 👂 heard
+  - event: 👂 heard
   - type
-  - primitive types
+  - primitive types: 👂 heard
   - reference types
   - flag
   - lexical scope
   - code block
-  - conditions
-  - loops
+  - conditions: 🖐️ used
+  - loops: 🖐️ used
   - assignment
   - regular expression
   - interface
@@ -31,17 +31,17 @@
   - call stack
 - Functions
   - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
+  - pure function: 👂 heard
+  - lambda expression: 👂 heard
   - side effects
   - closure
   - partial application
-  - curry
+  - curry: 👂 heard
   - higher order
-  - recursion
-  - callback
+  - recursion: 🖐️ used
+  - callback: 👂 heard
   - listener
   - compose
   - pipe
@@ -53,24 +53,24 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array: 🖐️ used
+  - structure: 🖐️ used
   - record
-  - enum
+  - enum: 👂 heard
   - instance
-  - object
-  - class
-  - collection
+  - object: 👂 heard
+  - class: 👂 heard
+  - collection: 👂 heard
   - set
   - hash table
   - linked list
   - doubly list
   - unrolled list
   - circular list
-  - queue
-  - stack
+  - queue: 🖐️ used
+  - stack: 👂 heard
   - deque
-  - tree
+  - tree: 👂 heard
   - graph
   - iterator
   - mutable state
@@ -78,29 +78,29 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler: 🖐️ used
   - transpiler
-  - linter
+  - linter: 👂 heard
   - polyfill
-  - debugger
+  - debugger: 🖐️ used
   - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
+  - refactoring: 🖐️ used
+  - code review: 🖐️ used
+  - antipatterns: 🖐️ used
+  - paradigm: 👂 heard
+  - algorithm: 🖐️ used
+  - magic numbers: 🖐️ used
+  - hardcode: 🖐️ used
+  - complexity: 🖐️ used
+  - decomposition: 🖐️ used
+  - spaghetti: 🖐️ used
+  - silver bullet: 🖐️ used
+  - not invented here: 🖐️ used
+  - dead code: 🖐️ used
+  - unreachable code: 🖐️ used
+  - duplicate code: 🖐️ used
+  - exception: 🖐️ used
   - return early
   - unittest
-  - git
-  - github
+  - git: 🖐️ used
+  - github: 🖐️ used

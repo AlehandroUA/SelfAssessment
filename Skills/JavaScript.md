@@ -2,7 +2,7 @@
 
 - Language
   - Object
-  - this
+  - this: 👂 heard
   - arrow function
   - async function
   - call
@@ -30,7 +30,7 @@
   - logical operators
   - bitwise operators
   - ternary operator
-  - void
+  - void: 👂 heard
   - yield
   - await
   - template literal
@@ -41,32 +41,32 @@
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
   - for..in
   - for..of
   - for await
   - throw
-  - break
-  - continue
+  - break: 🖐️ used
+  - continue: 🖐️ used
   - import
   - export
   - label
   - try..catch
-  - switch
-  - class
+  - switch: 🖐️ used
+  - class: 🖐️ used
   - new Error
   - with
 - Functions
   - function declaration
   - function expression
-  - return
+  - return: 🖐️ used
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - mixin
   - extend
   - typed arrays

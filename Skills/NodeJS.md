@@ -86,7 +86,7 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S): 👂 heard
   - TCP/SSL
   - UDP
   - TLS
@@ -98,7 +98,7 @@
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
@@ -123,7 +123,7 @@
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console: 🖐️ used
   - Inspector
   - Reliability
   - Quality
